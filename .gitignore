@@ -1,0 +1,12 @@
+config.env
+.env
+avl_runs/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+*.egg-info/
+.venv/
+.DS_Store
